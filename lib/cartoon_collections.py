@@ -7,7 +7,7 @@ def roll_call_dwarves(dwarf_list):
 def summon_captain_planet(planeteer_calls):
     return [f'{call.title()}!' for call in planeteer_calls]
 
-def long_planeteer_calls():
+def long_planeteer_calls(calls):
     pass
 
 def find_the_cheese():
