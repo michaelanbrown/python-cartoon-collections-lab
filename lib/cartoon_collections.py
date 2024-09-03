@@ -22,3 +22,4 @@ def find_the_cheese(list):
        if food in CHEESES:
            return food
         
+    return None
