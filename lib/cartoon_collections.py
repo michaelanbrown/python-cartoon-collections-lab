@@ -19,4 +19,6 @@ def long_planeteer_calls(calls):
 
 def find_the_cheese(list):
     for food in list:
-       if food in CHEESES 
+       if food in CHEESES:
+           return food
+        
