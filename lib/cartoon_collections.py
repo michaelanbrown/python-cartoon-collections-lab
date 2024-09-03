@@ -8,7 +8,8 @@ def summon_captain_planet(planeteer_calls):
     return [f'{call.title()}!' for call in planeteer_calls]
 
 def long_planeteer_calls(calls):
-    pass
+    for call in calls:
+        
 
 def find_the_cheese():
     pass
