@@ -1,3 +1,5 @@
+CHEESES = ["camembert", "gouda", "cheddar"]
+
 def roll_call_dwarves(dwarf_list):
     i = 1
     for name in dwarf_list:
