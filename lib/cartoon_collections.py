@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarf_list):
     i = 1
     for name in dwarf_list:
-        
+        print(f'{i}. {name}')
 
 def summon_captain_planet():
     pass
