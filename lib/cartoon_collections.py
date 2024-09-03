@@ -18,4 +18,5 @@ def long_planeteer_calls(calls):
 
 
 def find_the_cheese(list):
-    pass
+    for food in list:
+        
