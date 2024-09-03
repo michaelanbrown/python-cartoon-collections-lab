@@ -9,7 +9,8 @@ def summon_captain_planet(planeteer_calls):
 
 def long_planeteer_calls(calls):
     for call in calls:
-        
+        if len(call) > 4:
+
 
 def find_the_cheese():
     pass
