@@ -1,5 +1,6 @@
-def roll_call_dwarves():
-    pass
+def roll_call_dwarves(dwarf_list):
+    
+    
 
 def summon_captain_planet():
     pass
