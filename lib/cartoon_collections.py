@@ -5,7 +5,7 @@ def roll_call_dwarves(dwarf_list):
         i += 1
 
 def summon_captain_planet(planeteer_calls):
-    pass
+    return []
 
 def long_planeteer_calls():
     pass
